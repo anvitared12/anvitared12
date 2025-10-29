@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anvita S Reddy
 
 🎓 **Student at Polaris School of Technology, Bangalore affiliated to Medhavi Skills University**  
-💻 **Aspiring Android Developer | Manchine Learning ans Data Analysis enthusiast | Tech Explorer**  
+💻 **Aspiring Android Developer | Manchine Learning and Data Analysis enthusiast | Tech Explorer**  
 
 ---
 
